@@ -5,8 +5,7 @@ A lightweight **terminal game engine** written in C# / .NET 10. Handles sprites,
 No external dependencies. Runs on macOS, Linux, and Windows.
 
 ---
-
-<video src="https://github.com/blackarck/inkarcade/blob/main/images/inkarcade.mp4?raw=true" controls width="100%"></video>
+<img src="images/output.gif" width="600" alt="InkArcade Demo"> 
 
 ## Quick Start
 
