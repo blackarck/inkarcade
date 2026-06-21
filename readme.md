@@ -6,6 +6,8 @@ No external dependencies. Runs on macOS, Linux, and Windows.
 
 ---
 
+<video src="https://github.com/blackarck/inkarcade/blob/main/inkarcade.mp4?raw=true" controls width="100%"></video>
+
 ## Quick Start
 
 ```bash
